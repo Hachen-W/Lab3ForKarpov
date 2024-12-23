@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/bin.dir/test.cpp.o -o bin  -lgcov Catch2/src/libCatch2Main.a Catch2/src/libCatch2.a -lgcov 

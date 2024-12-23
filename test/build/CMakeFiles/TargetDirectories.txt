@@ -1,0 +1,9 @@
+/home/hachen/Desktop/b23515_bolshakov.mp/3/test/build/CMakeFiles/bin.dir
+/home/hachen/Desktop/b23515_bolshakov.mp/3/test/build/CMakeFiles/edit_cache.dir
+/home/hachen/Desktop/b23515_bolshakov.mp/3/test/build/CMakeFiles/rebuild_cache.dir
+/home/hachen/Desktop/b23515_bolshakov.mp/3/test/build/Catch2/CMakeFiles/edit_cache.dir
+/home/hachen/Desktop/b23515_bolshakov.mp/3/test/build/Catch2/CMakeFiles/rebuild_cache.dir
+/home/hachen/Desktop/b23515_bolshakov.mp/3/test/build/Catch2/src/CMakeFiles/Catch2.dir
+/home/hachen/Desktop/b23515_bolshakov.mp/3/test/build/Catch2/src/CMakeFiles/Catch2WithMain.dir
+/home/hachen/Desktop/b23515_bolshakov.mp/3/test/build/Catch2/src/CMakeFiles/edit_cache.dir
+/home/hachen/Desktop/b23515_bolshakov.mp/3/test/build/Catch2/src/CMakeFiles/rebuild_cache.dir
